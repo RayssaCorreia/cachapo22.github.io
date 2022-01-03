@@ -12,7 +12,7 @@ I'm from Brazil🇧🇷 <br>
 I'm developer student <br>
  📕 I'm a cybersecurity student at Unopar<br>
 I work "?" Pado<br>
-Entusiasta em tecnologia, cibersecurity e informação
+Enthusiast in technology, cibersecurity and information<br>
 
 ![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=cachapo22&theme=vision-friendly-dark&show_icons=true)
 

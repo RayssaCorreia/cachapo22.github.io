@@ -7,7 +7,7 @@
 
 ## About me
 
-My name is Nicholas, a 18 years old<br>
+My name is Nicholas,I am 18 years old<br>
 Brazilian🇧🇷 <br>
 I'm developer student <br>
  📕 I'm a cybersecurity student at Unopar(North University of Paraná)<br>
@@ -20,7 +20,7 @@ Enthusiast in technology, cibersecurity and information<br>
   ## Contact <br>
   
 
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://twitter.com/cachapo22" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/nicholas-souza-4943a319a" target="_blank">
